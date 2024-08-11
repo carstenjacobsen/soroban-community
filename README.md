@@ -15,7 +15,10 @@
 
 SDK
 
-- [Soroban Rust SDK](https://github.com/stellar/rs-soroban-sdk) | [https://docs.rs/soroban-sdk](Docs)
+- [Soroban Rust SDK](https://github.com/stellar/rs-soroban-sdk) | [Docs](https://docs.rs/soroban-sdk)
+
+Community Developed SDKs
+- sdfsd
 
 
 ## Connect
