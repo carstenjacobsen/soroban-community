@@ -26,6 +26,10 @@ This curated list of projects build with Soroban smart contracts are good exampl
 - [Constellation Protocol](https://github.com/constellation-protocol/constellation-protocol) - Constellation Protocol is an open protocol for Index Funds on Stellar/Soroban
 
 
-## Community Fund
+## Stellar Community Fund
+The Stellar Community Fund (SCF) is an open-application awards program that draws on community input to provide funding and support for web3 developers and startups building on Stellar.
 
+Apply for Awards up to $100K in XLM* to build your project on Stellar and Soroban. Strengthen the ecosystem’s infrastructure, lead the next wave of DeFi, and build solutions for those who need it most.
+
+- [Stellar Community Fund](https://communityfund.stellar.org)
 
