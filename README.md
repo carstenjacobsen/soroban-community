@@ -19,7 +19,9 @@ Official SDK
 - [JavaScript SDK](https://github.com/stellar/js-stellar-sdk) | [Docs](https://stellar.github.io/js-stellar-sdk/) | [NPM](https://www.npmjs.com/package/@stellar/stellar-sdk)
 
 Community Developed SDKs
-- sdfsd
+- [AssemblyScript SDK](https://github.com/Soneso/as-soroban-sdk)
+- [Python SDK](https://github.com/StellarCN/py-stellar-base) | [Docs](https://stellar-sdk.readthedocs.io/en/latest/) | [Examples](https://github.com/StellarCN/py-stellar-base/tree/master/examples)
+- 
 
 
 ## Connect
