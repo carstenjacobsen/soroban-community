@@ -21,7 +21,8 @@ Official SDK
 Community Developed SDKs
 - [AssemblyScript SDK](https://github.com/Soneso/as-soroban-sdk)
 - [Python SDK](https://github.com/StellarCN/py-stellar-base) | [Docs](https://stellar-sdk.readthedocs.io/en/latest/) | [Examples](https://github.com/StellarCN/py-stellar-base/tree/master/examples)
-- 
+- [iOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) | [Docs](https://github.com/Soneso/stellar-ios-mac-sdk/tree/master/docs) | [Smart Contract Docs](https://github.com/Soneso/stellar-ios-mac-sdk/blob/master/soroban.md)
+- [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) | [Docs](https://github.com/Soneso/stellar_flutter_sdk/blob/master/soroban.md)
 
 
 ## Connect
